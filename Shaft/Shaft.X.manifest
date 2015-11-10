@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="Shaft" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{187856c3-b22f-43dc-8068-5d6adbe4adc5}" progid="Shaft.StandardAddInServer" threadingModel="Both" name="Shaft.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="Shaft.dll" hashalg="SHA1"></file>
+
+</assembly>

@@ -1,0 +1,13 @@
+C:\Users\PC\AppData\Roaming\Autodesk\Inventor 2015\Addins\InventorAddIn1\Shaft.dll
+C:\Users\PC\AppData\Roaming\Autodesk\Inventor 2015\Addins\InventorAddIn1\Shaft.pdb
+D:\Documents\Job\Aquasoft\test\Shaft\Shaft\obj\Debug\Shaft.dll
+D:\Documents\Job\Aquasoft\test\Shaft\Shaft\obj\Debug\Shaft.pdb
+D:\Documents\Job\Aquasoft\test\Shaft\Shaft\bin\Debug\Shaft.dll
+D:\Documents\Job\Aquasoft\test\Shaft\Shaft\bin\Debug\Shaft.pdb
+D:\Documents\Job\Aquasoft\test\Shaft\Shaft\obj\Debug\Shaft.csprojResolveAssemblyReference.cache
+D:\Documents\Job\Aquasoft\test\Shaft\Shaft\obj\Debug\Shaft.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\Shaft\Shaft.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\Shaft\Shaft.pdb
+C:\Users\PC\AppData\Roaming\Autodesk\Inventor 2015\Addins\Shaft\Shaft.dll
+C:\Users\PC\AppData\Roaming\Autodesk\Inventor 2015\Addins\Shaft\Shaft.pdb
+D:\Documents\Job\Aquasoft\test\Shaft\Shaft\obj\Debug\Shaft.Form_ShaftPparts.resources
